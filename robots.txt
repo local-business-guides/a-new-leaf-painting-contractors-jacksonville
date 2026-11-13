@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/sitemap.xml
+Sitemap: https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/news-sitemap.xml

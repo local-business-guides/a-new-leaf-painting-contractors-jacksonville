@@ -25,6 +25,9 @@
 - [Top Rated House Painters Fl Jacksonville](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/top-rated-house-painters-fl-jacksonville/): Top Rated House Painters Fl Jacksonville help plan interior and exterior painting in Jacksonville. Call A New Leaf Painting Contractors for a free estimate.
 - [Licensed House Painters Fl Jacksonville](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/licensed-house-painters-fl-jacksonville/): Licensed House Painters Fl Jacksonville can discuss project scope, insurance, and credentials for your Jacksonville home. Call A New Leaf for a free estimate.
 
+## Newsroom
+- [Jacksonville Painter Publishes Guide for Homeowners Choosing House Painters](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/news/2026-11-13-jacksonville-painter-publishes-guide-for/): A New Leaf Painting Contractors published a guide, podcast episode and SoundCloud audio version for Jacksonville-area homeowners. (2026-11-13)
+
 ## Pages
 - [House Painters in Jacksonville, Florida](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/): Get careful prep, needed repairs, and interior or exterior painting from a local team serving Jacksonville. Call +1904-615-6599.
 - [About A New Leaf Painting Contractors](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/about/): About A New Leaf Painting Contractors, Jacksonville.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/a-new-leaf-painting-contractors-jacksonville/news/rss.xml)
 - [Main resource site](https://a-new-leaf-jacksonville-painting.localwebsites.chatgpt.site)
